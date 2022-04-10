@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Consist teh combination of three main pillar -> 
+1. React
+2. Axios
+3. Tailwind CSS
+This project is done using all this tech stack.
 
 ## Available Scripts
 
