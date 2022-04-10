@@ -15,7 +15,7 @@ function App() {
     url: 'https://api.newscatcherapi.com/v2/search',
     params: {q: 'all', lang: 'en', sort_by: 'relevancy', page: '1'},
     headers: {
-      'x-api-key': `${process.env.API_KEY}`
+      'x-api-key': `MI8lAlwWDnjukVO1YimHAEe8rOeqMVMeMGOXYAVdC5U`
     }
   };
   const getData = async () => {
