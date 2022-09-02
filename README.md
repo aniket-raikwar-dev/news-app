@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Project Live Demo Link = https://news-01.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Consist teh combination of three main pillar -> 
 1. React
